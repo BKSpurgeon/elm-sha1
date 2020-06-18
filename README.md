@@ -26,6 +26,7 @@ And can represent the digest as:
 versions are more rigiorously tested, are significantly more performant, contain
 bug fixes, and work with elm v0.19.1.
 
+* `2.1.1` improves performance and fixes bugs.
 * `2.0.0` prioritises use of [`Bytes`][elm/bytes] over [`List Int`].
 * `1.1.0` introduces the option to hash `Bytes` and represent `Digest`s as `Bytes`, without breaking the API.
 * `1.0.5` provides the performance improvements of the hashing algorithm in a non-breaking manner.
